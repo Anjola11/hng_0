@@ -9,7 +9,7 @@ router = APIRouter()
 async def get_profile():
     fact = await fetch_cat_fact()
     user_info = UserSchema(
-        email="aanu@example.com",
+        email="aladeniyiaanu@gmail.com",
         name="Aladeniyi Aanuoluwapo",
         stack="Python/FastAPI"
     )
