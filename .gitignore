@@ -1,0 +1,10 @@
+# --- Python ---
+__pycache__/
+
+
+# --- Virtual environment ---
+venv/
+env/
+.hng_0/
+hng_0/
+.venv/
