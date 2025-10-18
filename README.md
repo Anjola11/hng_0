@@ -219,4 +219,4 @@ The API implements graceful error handling:
 
 
 
-**Note**: This project was created as part of the HNG Internship Stage 0 Backend task. For more information about HNG, visit [https://hng.tech/](https://hng.tech/).
+**Note**: This project was created as part of the HNG Internship Stage 0 Backend task. 
